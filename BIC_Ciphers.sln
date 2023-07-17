@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIC_Ciphers", "Lr1_Caesar_Cipher\BIC_Ciphers.csproj", "{48F86076-7D75-4360-87A0-F7DFE8AA9CAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneTimePadCipher", "OneTimePadCipher\OneTimePadCipher.csproj", "{FB885FAB-7957-4676-8169-677382CD9B85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DESExample", "DESExample\DESExample.csproj", "{7E10C83E-8ADC-4943-9116-708DBF394C3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Encrypt", "RSA\RSA_Encrypt.csproj", "{147EF4A9-4886-4C26-9FEB-1CEDDD1578F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Decrypt", "RSA_Encrypt\RSA_Decrypt.csproj", "{41E6CFC7-D77B-4F39-8303-06BA5D81A123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TritemiusCipher", "TritemiusCipher\TritemiusCipher.csproj", "{4CBF2E03-C004-46C3-A83A-1C2601F055BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F86076-7D75-4360-87A0-F7DFE8AA9CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F86076-7D75-4360-87A0-F7DFE8AA9CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F86076-7D75-4360-87A0-F7DFE8AA9CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F86076-7D75-4360-87A0-F7DFE8AA9CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB885FAB-7957-4676-8169-677382CD9B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB885FAB-7957-4676-8169-677382CD9B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB885FAB-7957-4676-8169-677382CD9B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB885FAB-7957-4676-8169-677382CD9B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E10C83E-8ADC-4943-9116-708DBF394C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E10C83E-8ADC-4943-9116-708DBF394C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E10C83E-8ADC-4943-9116-708DBF394C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E10C83E-8ADC-4943-9116-708DBF394C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147EF4A9-4886-4C26-9FEB-1CEDDD1578F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147EF4A9-4886-4C26-9FEB-1CEDDD1578F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147EF4A9-4886-4C26-9FEB-1CEDDD1578F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147EF4A9-4886-4C26-9FEB-1CEDDD1578F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E6CFC7-D77B-4F39-8303-06BA5D81A123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E6CFC7-D77B-4F39-8303-06BA5D81A123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E6CFC7-D77B-4F39-8303-06BA5D81A123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E6CFC7-D77B-4F39-8303-06BA5D81A123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBF2E03-C004-46C3-A83A-1C2601F055BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBF2E03-C004-46C3-A83A-1C2601F055BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBF2E03-C004-46C3-A83A-1C2601F055BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBF2E03-C004-46C3-A83A-1C2601F055BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF3AD8D-682A-45FB-A775-62E25AF13C50}
+	EndGlobalSection
+EndGlobal
